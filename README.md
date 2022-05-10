@@ -45,9 +45,9 @@ then, execute the program with
 
 you can change the input msg manually at line 9 in testcase.
 
-# An example of this program performed
+# An example of this program performes
 
-given the plaintext in testcase.txt is : */acbsfrreretrytoencryptME!
+given the plaintext in testcase.txt is : ```*/acbsfrreretrytoencryptME!```
 
 the output of the program : 
 
