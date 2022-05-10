@@ -41,7 +41,7 @@ then, execute the program with
 
 # changing the input msg
 
-you can change the input msg manually at line 9 in testcase.
+you can change the input msg manually at line 9 in ```testcase.txt```.
 
 # An example of this program performes
 
