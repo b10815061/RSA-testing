@@ -16,7 +16,7 @@ the program assumes that you have
 
 both of the above have a return value returning the result string after computaion(i.e.encrypt/decrypt/CRT).
     
-if not, you can modify the code at line 27, line 46, line 71 in test.py so to apply your own funtion.
+if not, you can modify the code at line 27, line 46, line 71 in test.py so to apply your own function.
     
 please format your program structure as follow:
 
