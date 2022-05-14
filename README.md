@@ -1,3 +1,7 @@
+# update
+
+for testcase in testcase.txt, the string length exceeds the available number N, thus it cannot be convert back to plaintext.
+
 # RSA-testing
 
 this program **is** aimed to validate the encryption part and the decryption part for your RSA algorithm: the program uses p,q,N,phiN,e,d within the ```testcase.txt``` and calls the function written by you to encrypt the plaintext in ```testcase.txt```, if there's no problem with the algorithms, the command prompt should output the plaintext given in ```testcase.txt```. The program also compute the time your algorithm takes to perform pure decrypt compare to using CRT decrypt.
